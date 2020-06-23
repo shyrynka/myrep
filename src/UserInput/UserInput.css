@@ -1,0 +1,8 @@
+.UserInput input{
+    width: 50%;
+    margin:auto;
+    height: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
